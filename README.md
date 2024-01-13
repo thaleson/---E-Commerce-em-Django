@@ -1,6 +1,6 @@
-# E-Commerce em Django
+# E-Commerce 
 
-🛒 **E-Commerce em Django**
+🛒 **E-Commerce**
 
 ## Descrição
 
