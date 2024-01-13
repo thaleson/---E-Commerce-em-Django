@@ -29,7 +29,7 @@ Este é um projeto de E-Commerce desenvolvido em Django. Possui módulos para ge
 ### Clonar o Repositório
 
 ```bash
-git clone https://github.com/thaleson/---E-Commerce-em-Django
+git clone https://github.com/thaleson/E-commerce
 cd seu-repositorio
 ```
 
