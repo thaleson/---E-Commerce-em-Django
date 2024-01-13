@@ -52,6 +52,7 @@ source venv/bin/activate
 
 ## Iniciar o Servidor de Desenvolvimento
 ``` python manage.py runserver ```
+
 Acesse http://127.0.0.1:8000/ em seu navegador.
 
 ## Suporte ao Sistema Operacional
